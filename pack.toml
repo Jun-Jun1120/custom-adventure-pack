@@ -1,0 +1,13 @@
+name = "Custom Adventure 1.21.1"
+author = "Aogami_JunJun"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9bebb0add94b91ec6ae1019aa7fc9f62aed5c8e5a9d77dd26c70d37480ceb96d"

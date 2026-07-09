@@ -1,0 +1,399 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/craftingtweaks-common.toml"
+hash = "6313ef74c05ee6b4d1cd6c23a58ced296a6b52d55341e4598ebd1b9dfb5d4ff7"
+
+[[files]]
+file = "mods/1ro7m06l.pw.toml"
+hash = "9cd4eb3d7c736cbdbd16f615c2dbbf5948fe1bc73ae59d2e6dead7b4f0d12bed"
+metafile = true
+
+[[files]]
+file = "mods/2m01olqq.pw.toml"
+hash = "2011d962ae195890a1d1de2be5fc543cdd3fdee8606c6d20e430ae79d0dc4c62"
+metafile = true
+
+[[files]]
+file = "mods/3feg0a8d.pw.toml"
+hash = "63a994c7bb2d36b750b1835616940f53a7e1a68e31363a6a6da62fe9b3dcdcac"
+metafile = true
+
+[[files]]
+file = "mods/46kjle7n.pw.toml"
+hash = "556fd5f0af6e501a44dbd8a613035ffd65a0fa8d42fefe980a01fe142a965a13"
+metafile = true
+
+[[files]]
+file = "mods/73mssncf.pw.toml"
+hash = "74e45362fca86a42916c2c800158d32aca7df55d204bc00e7f00cacebfca2056"
+metafile = true
+
+[[files]]
+file = "mods/7jy4rk9m.pw.toml"
+hash = "2738ab4946cf936e2997eccdc6f53f63245e1b1a01ee2a92e54bdabb4d672997"
+metafile = true
+
+[[files]]
+file = "mods/7zluozvb.pw.toml"
+hash = "16059e0ea2a2233372b938d4c5c21903ac38420643a00639508e293802ee0952"
+metafile = true
+
+[[files]]
+file = "mods/8bmcqj2h.pw.toml"
+hash = "16ddf9f191160af3d7dd958785fb678072b2b71a895b80755f75e28ca532a506"
+metafile = true
+
+[[files]]
+file = "mods/8oi3bsk5.pw.toml"
+hash = "6e74da5201c8da742781fd255add0980601ab1d3d337539bec93b7ae9a8625a0"
+metafile = true
+
+[[files]]
+file = "mods/9nfajptx.pw.toml"
+hash = "4525abf2bcdd026ac5a36f114a77fe3b8ca64203576846d103c47451486f2025"
+metafile = true
+
+[[files]]
+file = "mods/9s6osm5g.pw.toml"
+hash = "82e7b14032ce614a6f2dc4ca816028631b1e338dec105917091b484d4122b657"
+metafile = true
+
+[[files]]
+file = "mods/aanobbmi.pw.toml"
+hash = "76edf8c05bfe9d6bb0f898ffdeee0573d6f58cf64104577e07cc31deeca33705"
+metafile = true
+
+[[files]]
+file = "mods/ac3cm3vq.pw.toml"
+hash = "f1284c9c25a2c5576ca99106729399eaa7a90f1fe794b6911753cc188010af37"
+metafile = true
+
+[[files]]
+file = "mods/bqhuhqo4.pw.toml"
+hash = "3122d38bbce2fc1f342f1d77b5fae075bc860beb30952e166024314c214dec0d"
+metafile = true
+
+[[files]]
+file = "mods/by4q13xr.pw.toml"
+hash = "3accf1f31b00bc531ac09b858297d650cd7ffdefb29519a32245d8b5cacea26c"
+metafile = true
+
+[[files]]
+file = "mods/cl223emc.pw.toml"
+hash = "73a2ebaad2485784634025bd837e1f14e736a495fe0d5a34e0c7aff85984dc32"
+metafile = true
+
+[[files]]
+file = "mods/cnejf5xm.pw.toml"
+hash = "b2da2487f360fb87adf6ca4615057b02dc0e3df41b816264f0f2486700a1cc35"
+metafile = true
+
+[[files]]
+file = "mods/co40zig3.pw.toml"
+hash = "d79f70ff8402f0792b159e5f08bea70c34f4676208a51e503fdabe7fb218c977"
+metafile = true
+
+[[files]]
+file = "mods/derp0ten.pw.toml"
+hash = "f5a3371e751dd8eb4892c6e7ef8e05bc5aea5827eed14c5960bec47973e1535a"
+metafile = true
+
+[[files]]
+file = "mods/djlobeoy.pw.toml"
+hash = "89ccd794911d647fd09f99367aefcafad1cd3ba8ba7b8bcd9330f1504815bb77"
+metafile = true
+
+[[files]]
+file = "mods/dmu0obkf.pw.toml"
+hash = "8281e3c62e66083f2780f1da06a7004b8527cd371cb6510ce7f5b9253c3916eb"
+metafile = true
+
+[[files]]
+file = "mods/eltpo5cn.pw.toml"
+hash = "6d59e0e9af4814d7100ab5737a800f17c7a576893112281bcdbd9f756e58e723"
+metafile = true
+
+[[files]]
+file = "mods/esafcjcv.pw.toml"
+hash = "f9a971440bcafcd92b80c682cd4d3d4cf56388ffb3980bbea254188a87968854"
+metafile = true
+
+[[files]]
+file = "mods/fb4jn8m6.pw.toml"
+hash = "54e1c16a889fc6a09b57fe200884a7658d3062c0c57199ecfa929a72f3d533f1"
+metafile = true
+
+[[files]]
+file = "mods/fgmhi8kh.pw.toml"
+hash = "60d2293b97d7506986114514a88f7cc18b4f6fb32c0d980fae46e5950aab5a04"
+metafile = true
+
+[[files]]
+file = "mods/fm515jnw.pw.toml"
+hash = "cf030b1ea5f68eec2aaf76165cec6f36020c8bee7923800ef953348ee5370554"
+metafile = true
+
+[[files]]
+file = "mods/fnaffv0n.pw.toml"
+hash = "03e098c73058bbc23218236c25de83a3badf8fb85965bae7f065fbb078a31ca1"
+metafile = true
+
+[[files]]
+file = "mods/fovacera.pw.toml"
+hash = "3f3da7492a2945e5e702c4b6e4b442ad30483baa41b691c3526036f3d0c095cf"
+metafile = true
+
+[[files]]
+file = "mods/fpetb5kh.pw.toml"
+hash = "52f2d872dc2451d9725b07719d845acf16bceb429294e4e3b8557a372e010530"
+metafile = true
+
+[[files]]
+file = "mods/gedne4y2.pw.toml"
+hash = "4c805b5c2cbb727c02d98e18190b70b0ce3f1352a1340a71ad61bf6aac5decff"
+metafile = true
+
+[[files]]
+file = "mods/hjmxvlsr.pw.toml"
+hash = "6d4cca2b175b7cda34fc01c1a7e745a1d4a90d65d6993096638b4bd66500249f"
+metafile = true
+
+[[files]]
+file = "mods/hmlazh8f.pw.toml"
+hash = "608ac8b9592478333804bcd4be897dbd2a9b06fb346d28963c08f6833646755c"
+metafile = true
+
+[[files]]
+file = "mods/iaiqcykm.pw.toml"
+hash = "e4566e4b53825c4f813818e2d34fa0a2ad5e2e8a14e387601b4dfbd527ecf460"
+metafile = true
+
+[[files]]
+file = "mods/iyy9siz8.pw.toml"
+hash = "eb6191d1bcb4bbec4c0755282b0a27edde2b8e3b7ad96bbaeb7954db38bd6e49"
+metafile = true
+
+[[files]]
+file = "mods/j81trjwm.pw.toml"
+hash = "fa705a5ea34a3e4c3411d2c40a7dc07fac3bfc70c03021c68026cc4e8b37eb74"
+metafile = true
+
+[[files]]
+file = "mods/jtifur64.pw.toml"
+hash = "7a866d35a2eddfffdd55a00b3a650dc3e28dfbf3c43231139ec7692aef7a8d02"
+metafile = true
+
+[[files]]
+file = "mods/kaov2qgi.pw.toml"
+hash = "e2d1d2571cbab1fc315c3d32c4beda5cd5926c810daf150ad06a5544501130a7"
+metafile = true
+
+[[files]]
+file = "mods/kidlkymu.pw.toml"
+hash = "99965c7552b464bcf78c7b7e681ff7792d1a068efdec521678815f247fd3bc25"
+metafile = true
+
+[[files]]
+file = "mods/l6yh9als.pw.toml"
+hash = "670400cca7743b3f37fbd076bd0e5a235f0715e66c6c546953be4be4883a5db3"
+metafile = true
+
+[[files]]
+file = "mods/lfhfw1mp.pw.toml"
+hash = "90565bbd67fc16376c41d61520ef782ab878e0c21c3eebd00f8a3b6cf1569699"
+metafile = true
+
+[[files]]
+file = "mods/lhga9tyq.pw.toml"
+hash = "6fe9e56f0094288fe060e125aaed199dfc9022412370b9d9d9b0a36b1a52b1d0"
+metafile = true
+
+[[files]]
+file = "mods/lnytgwdc.pw.toml"
+hash = "504aa209ba1265d2febb1129da4c2afe519490e1afc6f3e3bab8c8de414a2303"
+metafile = true
+
+[[files]]
+file = "mods/lopkhb2a.pw.toml"
+hash = "798dfb96229bb5544e74f74ac513b85b583c16eb3e892a98295d61b373c1d33d"
+metafile = true
+
+[[files]]
+file = "mods/mbakmtvl.pw.toml"
+hash = "9bddfc8f852f5f3b7742229e442116792fe1fff2b0d1b5bd14abe97ed6657d08"
+metafile = true
+
+[[files]]
+file = "mods/namq1fmp.pw.toml"
+hash = "bd040258a9ac43085722a6f8c92a05df5fc10894825ade4c88fa5f8c382564a4"
+metafile = true
+
+[[files]]
+file = "mods/nfdufvtk.pw.toml"
+hash = "ba8ff261bd7b5932152aa32b71be7773b85b98a28f96a0bc88d6eab8ceadbb4b"
+metafile = true
+
+[[files]]
+file = "mods/nmdcb62a.pw.toml"
+hash = "2612c8b0350fe16a9a4e90ce7b3022a6a999a351138687f7bc40b6c9a04d73c4"
+metafile = true
+
+[[files]]
+file = "mods/nmoqtijg.pw.toml"
+hash = "830cf9b247cca3766679c5b5eef9b74d1004f6c33ebbb76621d5b294a6907472"
+metafile = true
+
+[[files]]
+file = "mods/nnagcjsb.pw.toml"
+hash = "9bfc5fb19afb0815f7f8848a9d31351b0d57e1c797846c0280b65809124e3424"
+metafile = true
+
+[[files]]
+file = "mods/nvqzsekh.pw.toml"
+hash = "a4031086230c7c24ddb6181ab1e4eadf62c493882e7da928ba27fd70460250ae"
+metafile = true
+
+[[files]]
+file = "mods/o1c1dkj5.pw.toml"
+hash = "0390d6d3299dcb3bdbe0f3eb400b07d650244a54837d909e939fb43429245c29"
+metafile = true
+
+[[files]]
+file = "mods/o7rbxm3n.pw.toml"
+hash = "3bc8692ba742be6b91f7e25735c1a9d551eaea462c4ea8184fc46fba0f6087e7"
+metafile = true
+
+[[files]]
+file = "mods/ocjrpujw.pw.toml"
+hash = "69ea35bd026fd4f289a9f9b289ca36e4d82e4422b34af15e3591fcb4f49dd563"
+metafile = true
+
+[[files]]
+file = "mods/onsqdwhm.pw.toml"
+hash = "8a1a0bbcb5f87d7d6ad5d33df58cdcc9bb03d82f8a11675ba054eba937c77cfe"
+metafile = true
+
+[[files]]
+file = "mods/ordspcfz.pw.toml"
+hash = "d79587fd2ba0c8781ffd19e17ac4914971964c7f85d4e592982b7f15af014352"
+metafile = true
+
+[[files]]
+file = "mods/osziadhq.pw.toml"
+hash = "872ad4f03d1782f928f8ae95781ca77b3107d258d447d2688c6b30f49f3b80db"
+metafile = true
+
+[[files]]
+file = "mods/ozbr5jt5.pw.toml"
+hash = "3a6153dd8eb3ae00eca980055f439f9bd1f6b488ceb683293379f88c94973d4a"
+metafile = true
+
+[[files]]
+file = "mods/p0mu4wcq.pw.toml"
+hash = "1189391795c91ce6d0804619cfcfc671eca052c4d4f7fed7af3b16558f790e50"
+metafile = true
+
+[[files]]
+file = "mods/qagbst4m.pw.toml"
+hash = "b569a04d1e4c0902a6cb7d86750f7db4b2ad289f791763c16568fcfaa6b63e59"
+metafile = true
+
+[[files]]
+file = "mods/qppoal6m.pw.toml"
+hash = "43ce8d49a8b8e8003d6e659b48bac184d867209e17f27b601952e0dc8c9a28b9"
+metafile = true
+
+[[files]]
+file = "mods/qyvf9oeo.pw.toml"
+hash = "2d58c5614af064fa20d4b6e6cc017e3c51c414ffecc0e66efe26925aac0c076b"
+metafile = true
+
+[[files]]
+file = "mods/rh2kudkj.pw.toml"
+hash = "784b2241936c41f0314794ff5e104cc169b8e49c6c24e1b8015e46698141eaae"
+metafile = true
+
+[[files]]
+file = "mods/rv1qfvq8.pw.toml"
+hash = "d752ed7073c845a0ec1c24750339f7e87ff60c668d25d0afddad941af916c14f"
+metafile = true
+
+[[files]]
+file = "mods/s4owxyqq.pw.toml"
+hash = "62772c0550aeb5efb78a846db82879abb3c0d9208d341305d8739c9d8e9f6112"
+metafile = true
+
+[[files]]
+file = "mods/sacpeal4.pw.toml"
+hash = "86a745ff5c428c64887c8aaf015cb18f18021eea5459445cddf96c6c9735045d"
+metafile = true
+
+[[files]]
+file = "mods/tl8esrhx.pw.toml"
+hash = "60bdce4aad1ab259b88aaa5510f9406c7faeef7b0847a6b84c0a22e7b774cb14"
+metafile = true
+
+[[files]]
+file = "mods/tpehi7ww.pw.toml"
+hash = "174ff4db81b804b51b80b415060149e25d1d564c309405afc2100a6c38f7beab"
+metafile = true
+
+[[files]]
+file = "mods/twilightforest-1.21.1-4.8.3345-universal.jar"
+hash = "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35"
+
+[[files]]
+file = "mods/tyctli4b.pw.toml"
+hash = "71407fb7bdadd077000252eddb6c762cb98dbcec3d9afea0ab921684e405e471"
+metafile = true
+
+[[files]]
+file = "mods/u6drkjwz.pw.toml"
+hash = "fb24f394b35fc210abef4497f0bb73c677646868899775deae1c2c0247dede62"
+metafile = true
+
+[[files]]
+file = "mods/ua7dfn59.pw.toml"
+hash = "591c043c47bdb92365fad802a5d3629ea8d7dfa219a65517850487b977057013"
+metafile = true
+
+[[files]]
+file = "mods/ucdwusmi.pw.toml"
+hash = "c9c48eb5043e5cc31f14b76f9f1ed981430225331371d2b7a21d586ee57dfd33"
+metafile = true
+
+[[files]]
+file = "mods/uxxizfis.pw.toml"
+hash = "7d92efa1c6cc55bab650bc48af7fc2af75fa7f0b1f329ec8ba01bff22dc3d5b4"
+metafile = true
+
+[[files]]
+file = "mods/vryk0bv7.pw.toml"
+hash = "1225918f6c1b3b0676852e08655c753f546366808b084029329a5b5e28f23c14"
+metafile = true
+
+[[files]]
+file = "mods/vvuo3imh.pw.toml"
+hash = "9f843a599ee872334214cb385f0438091e2bdd767647abb476b00c22feacdd5c"
+metafile = true
+
+[[files]]
+file = "mods/wnxd13zp.pw.toml"
+hash = "6fe987aedbf54d3d41f653ff62502ab75b93f81634f59d2026157aaaa7d13eea"
+metafile = true
+
+[[files]]
+file = "mods/wrpuifhw.pw.toml"
+hash = "d8f1bd892736ba3c835fd9fc2f332d40bcf71aff5a102630d180b5bebaf038f2"
+metafile = true
+
+[[files]]
+file = "mods/xadc71gb.pw.toml"
+hash = "bc75f06325919fb4bc524dd3fca2f3de620a5da7e9e86cf086068421e9ec8fd1"
+metafile = true
+
+[[files]]
+file = "mods/yl57xq9u.pw.toml"
+hash = "184d84d24367aa7656629cb5a8738adca43cf4f80b27933cc7289a3bd11677b5"
+metafile = true
