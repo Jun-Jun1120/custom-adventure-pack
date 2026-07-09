@@ -399,5 +399,21 @@ hash = "184d84d24367aa7656629cb5a8738adca43cf4f80b27933cc7289a3bd11677b5"
 metafile = true
 
 [[files]]
+file = "shaderpacks/BSL_v10.1.3.zip"
+hash = "185774628b5259c36255183fc1adeb0f64f89235f7ea2c826fa327d1112687a8"
+
+[[files]]
+file = "shaderpacks/Bliss_v2.1.2.zip"
+hash = "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c"
+
+[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
 hash = "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15"
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-9.5c.zip"
+hash = "8b62b38e6572f230b89035a14c13f596e85c29a7a7422d6a654204aac9ee8a05"
+
+[[files]]
+file = "shaderpacks/photon_v1.3b.zip"
+hash = "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"
