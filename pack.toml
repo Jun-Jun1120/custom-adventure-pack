@@ -10,4 +10,4 @@ neoforge = "21.1.234"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9bebb0add94b91ec6ae1019aa7fc9f62aed5c8e5a9d77dd26c70d37480ceb96d"
+hash = "f9bcb9e286e6e3d446cc33ad18d14c93a38a609a77130ff53dbb17561bef19da"
